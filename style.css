@@ -1,3 +1,16 @@
 body {
-    background-color: rgb(5, 88, 5);
+    background-color: rgb(255, 151, 174);
+    color:white;
+    font-family: "Roboto Mono", monospace;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(255, 84, 198);
+    color:white;
+    font-family: "Roboto Mono", monospace;
 }
